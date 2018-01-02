@@ -1,0 +1,13 @@
+/home/sslampa/Documents/exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sslampa/Documents/exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.deps.json
+/home/sslampa/Documents/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.runtimeconfig.json
+/home/sslampa/Documents/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.runtimeconfig.dev.json
+/home/sslampa/Documents/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.dll
+/home/sslampa/Documents/exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.pdb
+/home/sslampa/Documents/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.csproj.CoreCompileInputs.cache
+/home/sslampa/Documents/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.AssemblyInfoInputs.cache
+/home/sslampa/Documents/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.AssemblyInfo.cs
+/home/sslampa/Documents/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.dll
+/home/sslampa/Documents/exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.pdb
