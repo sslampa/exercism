@@ -1,0 +1,13 @@
+/home/sslampa/Documents/exercism/csharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sslampa/Documents/exercism/csharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.deps.json
+/home/sslampa/Documents/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.runtimeconfig.json
+/home/sslampa/Documents/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.runtimeconfig.dev.json
+/home/sslampa/Documents/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.dll
+/home/sslampa/Documents/exercism/csharp/bob/bin/Debug/netcoreapp2.0/Bob.pdb
+/home/sslampa/Documents/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.csproj.CoreCompileInputs.cache
+/home/sslampa/Documents/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.AssemblyInfoInputs.cache
+/home/sslampa/Documents/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.AssemblyInfo.cs
+/home/sslampa/Documents/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.dll
+/home/sslampa/Documents/exercism/csharp/bob/obj/Debug/netcoreapp2.0/Bob.pdb
