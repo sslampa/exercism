@@ -1,0 +1,13 @@
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.deps.json
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.runtimeconfig.json
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.runtimeconfig.dev.json
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.dll
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.pdb
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.csproj.CoreCompileInputs.cache
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.AssemblyInfoInputs.cache
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.AssemblyInfo.cs
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.dll
+/home/sslampa/Documents/exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.pdb
