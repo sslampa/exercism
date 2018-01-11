@@ -1,0 +1,13 @@
+/home/sslampa/Documents/exercism/csharp/two-fer/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sslampa/Documents/exercism/csharp/two-fer/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/two-fer/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/two-fer/bin/Debug/netcoreapp2.0/TwoFer.deps.json
+/home/sslampa/Documents/exercism/csharp/two-fer/bin/Debug/netcoreapp2.0/TwoFer.runtimeconfig.json
+/home/sslampa/Documents/exercism/csharp/two-fer/bin/Debug/netcoreapp2.0/TwoFer.runtimeconfig.dev.json
+/home/sslampa/Documents/exercism/csharp/two-fer/bin/Debug/netcoreapp2.0/TwoFer.dll
+/home/sslampa/Documents/exercism/csharp/two-fer/bin/Debug/netcoreapp2.0/TwoFer.pdb
+/home/sslampa/Documents/exercism/csharp/two-fer/obj/Debug/netcoreapp2.0/TwoFer.csproj.CoreCompileInputs.cache
+/home/sslampa/Documents/exercism/csharp/two-fer/obj/Debug/netcoreapp2.0/TwoFer.AssemblyInfoInputs.cache
+/home/sslampa/Documents/exercism/csharp/two-fer/obj/Debug/netcoreapp2.0/TwoFer.AssemblyInfo.cs
+/home/sslampa/Documents/exercism/csharp/two-fer/obj/Debug/netcoreapp2.0/TwoFer.dll
+/home/sslampa/Documents/exercism/csharp/two-fer/obj/Debug/netcoreapp2.0/TwoFer.pdb
