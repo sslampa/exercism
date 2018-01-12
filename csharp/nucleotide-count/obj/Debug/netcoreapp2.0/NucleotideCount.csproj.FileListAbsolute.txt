@@ -1,0 +1,13 @@
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/bin/Debug/netcoreapp2.0/NucleotideCount.deps.json
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/bin/Debug/netcoreapp2.0/NucleotideCount.runtimeconfig.json
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/bin/Debug/netcoreapp2.0/NucleotideCount.runtimeconfig.dev.json
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/bin/Debug/netcoreapp2.0/NucleotideCount.dll
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/bin/Debug/netcoreapp2.0/NucleotideCount.pdb
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/obj/Debug/netcoreapp2.0/NucleotideCount.csproj.CoreCompileInputs.cache
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/obj/Debug/netcoreapp2.0/NucleotideCount.AssemblyInfoInputs.cache
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/obj/Debug/netcoreapp2.0/NucleotideCount.AssemblyInfo.cs
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/obj/Debug/netcoreapp2.0/NucleotideCount.dll
+/home/sslampa/Documents/exercism/csharp/nucleotide-count/obj/Debug/netcoreapp2.0/NucleotideCount.pdb
