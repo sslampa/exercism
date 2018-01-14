@@ -32,15 +32,17 @@ defmodule SecretHandshake do
         true -> ""
       end
     end)
-    |> (fn(x) ->
+    |> check_for_reverse()
+    |> Enum.filter(fn(i) -> i != "" end)
+  end
+
+  def check_for_reverse(x) do
       [head | tail] = Enum.reverse(x)
       if head === "reverse" do
         tail
       else
         x
       end
-    end).()
-    |> Enum.filter(fn(i) -> i != "" end)
   end
 end
 
