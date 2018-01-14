@@ -1,0 +1,13 @@
+/home/sslampa/Documents/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sslampa/Documents/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.deps.json
+/home/sslampa/Documents/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.runtimeconfig.json
+/home/sslampa/Documents/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.runtimeconfig.dev.json
+/home/sslampa/Documents/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.dll
+/home/sslampa/Documents/exercism/csharp/accumulate/bin/Debug/netcoreapp2.0/Accumulate.pdb
+/home/sslampa/Documents/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.csproj.CoreCompileInputs.cache
+/home/sslampa/Documents/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.AssemblyInfoInputs.cache
+/home/sslampa/Documents/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.AssemblyInfo.cs
+/home/sslampa/Documents/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.dll
+/home/sslampa/Documents/exercism/csharp/accumulate/obj/Debug/netcoreapp2.0/Accumulate.pdb

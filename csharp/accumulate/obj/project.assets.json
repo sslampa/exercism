@@ -5719,11 +5719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sslampa/exercism/csharp/accumulate/Accumulate.csproj",
+      "projectUniqueName": "/home/sslampa/Documents/exercism/csharp/accumulate/Accumulate.csproj",
       "projectName": "Accumulate",
-      "projectPath": "/home/sslampa/exercism/csharp/accumulate/Accumulate.csproj",
+      "projectPath": "/home/sslampa/Documents/exercism/csharp/accumulate/Accumulate.csproj",
       "packagesPath": "/home/sslampa/.nuget/packages/",
-      "outputPath": "/home/sslampa/exercism/csharp/accumulate/obj/",
+      "outputPath": "/home/sslampa/Documents/exercism/csharp/accumulate/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
