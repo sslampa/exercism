@@ -1,0 +1,13 @@
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/bin/Debug/netcoreapp2.0/CollatzConjecture.deps.json
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/bin/Debug/netcoreapp2.0/CollatzConjecture.runtimeconfig.json
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/bin/Debug/netcoreapp2.0/CollatzConjecture.runtimeconfig.dev.json
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/bin/Debug/netcoreapp2.0/CollatzConjecture.dll
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/bin/Debug/netcoreapp2.0/CollatzConjecture.pdb
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/obj/Debug/netcoreapp2.0/CollatzConjecture.csproj.CoreCompileInputs.cache
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/obj/Debug/netcoreapp2.0/CollatzConjecture.AssemblyInfoInputs.cache
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/obj/Debug/netcoreapp2.0/CollatzConjecture.AssemblyInfo.cs
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/obj/Debug/netcoreapp2.0/CollatzConjecture.dll
+/home/sslampa/Documents/exercism/csharp/collatz-conjecture/obj/Debug/netcoreapp2.0/CollatzConjecture.pdb
