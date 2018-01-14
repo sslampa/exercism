@@ -1,18 +1,13 @@
 ﻿using System;
+using System.Linq;
 
 public static class ArmstrongNumbers
 {
     public static bool IsArmstrongNumber(int number)
     {
         string n = number.ToString();
-        double length = Convert.ToDouble(n.Length);
-        int total = 0;
-
-        foreach (char c in n)
-        {
-            double value = Convert.ToDouble(c.ToString());
-            total += Convert.ToInt32(Math.Pow(value, length));
-        }
+        int length = n.Length;
+        int total = (int)n.Sum(x => Math.Pow(int.Parse(x.ToString()), length));
 
         return total == number;
     }
