@@ -48,8 +48,10 @@ public class KindergartenGarden
                 return Plant.Radishes;
             case 'C':
                 return Plant.Clover;
-            default:
+            case 'G':
                 return Plant.Grass;
+            default:
+                throw new KeyNotFoundException();
         }
     }
 }
